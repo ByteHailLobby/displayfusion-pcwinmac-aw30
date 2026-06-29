@@ -1,4 +1,4 @@
-# 
+# Instant DisplayFusion presets for Mac OS | New DisplayFusion presets for PC Windows. Featuring command line support and real-time monitoring — optimized for maximum performance on every platform.
 
 
 
